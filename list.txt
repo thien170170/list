@@ -3,5 +3,5 @@ trojan://da9de825-5396-42f3-b545-1eb6ee58c7f1@01.vn.aikocute.com:443?allowInsecu
 trojan://da9de825-5396-42f3-b545-1eb6ee58c7f1@04.vn.aikocute.com:443?allowInsecure=1&peer=v.akamaized.net&tfo=1#hcm4
 vmess://YXV0bzpkYTlkZTgyNS01Mzk2LTQyZjMtYjU0NS0xZWI2ZWU1OGM3ZjFAMTcxLjI0NC40MC43ODo4MA?remarks=hcm2&obfsParam=%7B%22Host%22:%22v.akamaized.net%22%7D&path=/&obfs=websocket&alterId=0
 vmess://YXV0bzpkYTlkZTgyNS01Mzk2LTQyZjMtYjU0NS0xZWI2ZWU1OGM3ZjFAMTAzLjE0My4xNDMuMTU5Ojgw?remarks=hcm1&obfsParam=%7B%22Host%22:%22v.akamaized.net%22%7D&path=/&obfs=websocket&alterId=0
-trojan://e6cd86b0-cfa7-11ec-8a3d-1239d0255272@w12-trojan.bonds.id:443/
-trojan://21493260-cfa8-11ec-9d9b-1239d0255272@w13-trojan.bonds.id:443/
+trojan://9c212500-cfaa-11ec-b958-1239d0255272@w13-trojan.bonds.id:443/dow.anticheatexpert.com.akamaized.net
+trojan-go://9c212500-cfaa-11ec-b958-1239d0255272@dow.anticheatexpert.com.akamaized.net:443/?sni=w13-trojan.bonds.id&type=ws&host=w13-trojan.bonds.id&path=%2Fhowdy&encryption=none
