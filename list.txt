@@ -1,5 +1,6 @@
 trojan://026c8bb0-c3d1-11ec-bede-1239d0255272@trojan3.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
 trojan://1618e150-cfae-11ec-99a4-1239d0255272@trojan1.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
-trojan=w11-trojan.bonds.id:443, password=8773b430-cfa7-11ec-8960-1239d0255272, over-tls=true, tls-host=dow.anticheatexpert.com.akamaized.net, tls-verification=false, fast-open=true, udp-relay=false, tag=[trojan]ww11-trojan.bonds.id:4431
+trojan://ae278580-cfaf-11ec-b426-1239d0255272@w11-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
 trojan://e6cd86b0-cfa7-11ec-8a3d-1239d0255272@w12-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
-trojan://21493260-cfa8-11ec-9d9b-1239d0255272@w13-trojan.bonds.id:443/?allowInsecure=1&tfo=1
+trojan://21493260-cfa8-11ec-9d9b-1239d0255272@w13-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+vmess://eyJhZGQiOiJ2MnJheTEuYm9uZHMuaWQiLCJhaWQiOiIwIiwiaWQiOiIxOTk1ZjE0OC0zZjY1LTQ0YzEtOTVjMy04ZGNkYmQ5NzE4NjkiLCJob3N0Ijoidi5ha2FtYWl6ZWQubmV0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hvd2R5IiwicG9ydCI6IjQ0MyIsInBzIjoidjJyYXkxLmJvbmRzLmlkIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
