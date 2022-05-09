@@ -1,1 +1,2 @@
 trojan://026c8bb0-c3d1-11ec-bede-1239d0255272@trojan3.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+vmess://eyJhZGQiOiJ2MnJheTEuYm9uZHMuaWQiLCJhaWQiOiIwIiwiaWQiOiI4YmU0YjM3Yy03NThiLTRkZGEtODc5Yi1mM2ZhODU0OWRiYjQiLCJob3N0IjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hvd2R5IiwicG9ydCI6IjQ0MyIsInBzIjoidjJyYXkxLmJvbmRzLmlkIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
