@@ -1,2 +1,4 @@
 trojan://026c8bb0-c3d1-11ec-bede-1239d0255272@trojan3.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
 trojan://1618e150-cfae-11ec-99a4-1239d0255272@trojan1.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+trojan://e6cd86b0-cfa7-11ec-8a3d-1239d0255272@w12-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+trojan://21493260-cfa8-11ec-9d9b-1239d0255272@w13-trojan.bonds.id:443/?allowInsecure=1&tfo=1
