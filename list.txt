@@ -6,17 +6,14 @@ trojan://21493260-cfa8-11ec-9d9b-1239d0255272@w13-trojan.bonds.id:443/?allowInse
 vmess://eyJhZGQiOiJ2MnJheTEuYm9uZHMuaWQiLCJhaWQiOiIwIiwiaWQiOiIxOTk1ZjE0OC0zZjY1LTQ0YzEtOTVjMy04ZGNkYmQ5NzE4NjkiLCJob3N0Ijoidi5ha2FtYWl6ZWQubmV0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hvd2R5IiwicG9ydCI6IjQ0MyIsInBzIjoidjJyYXkxLmJvbmRzLmlkIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMy5mYXN0NGcubmV0Ojgw?remarks=hcm3.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
 vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=hcm1.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=hcm2.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=hcm4.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=gamehcm.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=gamehn.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=hn1.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=hn2.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=hn5.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=hn6.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=sing1.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=sing2.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=sing3.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAZ2FtZWhjbS5mYXN0NGcubmV0Ojgw?remarks=gamehcm.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAZ2FtZWhuLmZhc3Q0Zy5uZXQ6ODA?remarks=gamehn.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaG4xLmZhc3Q0Zy5uZXQ6ODA?remarks=hn1.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaG41LmZhc3Q0Zy5uZXQ6ODA?remarks=hn5.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAc2luZzEuZmFzdDRnLm5ldDo4MA?remarks=sing1.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAc2luZzIuZmFzdDRnLm5ldDo4MA?remarks=sing2.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAc2luZzQuZmFzdDRnLm5ldDo4MA?remarks=sing4.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAc2luZzUuZmFzdDRnLm5ldDo4MA?remarks=sing5.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
 
 
 
