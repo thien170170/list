@@ -1,7 +1,3 @@
-github list
-
-
-
 trojan://a246961d-b237-4f0b-96a1-3dc6868d79c9@hcm.aqvpn.me:443?allowInsecure=1&peer=aqvpn.akamaized.net&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn1
 trojan://a246961d-b237-4f0b-96a1-3dc6868d79c9@hcm2.aqvpn.me:443?allowInsecure=1&peer=aqvpn.akamaized.net&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn2
 trojan://a246961d-b237-4f0b-96a1-3dc6868d79c9@hcm3.aqvpn.me:443?allowInsecure=1&peer=aqvpn.akamaized.net&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn3
