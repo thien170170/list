@@ -1,21 +1,24 @@
-trojan://026c8bb0-c3d1-11ec-bede-1239d0255272@trojan3.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
-trojan://1618e150-cfae-11ec-99a4-1239d0255272@trojan1.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
-trojan://ae278580-cfaf-11ec-b426-1239d0255272@w11-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
-trojan://e6cd86b0-cfa7-11ec-8a3d-1239d0255272@w12-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
-trojan://21493260-cfa8-11ec-9d9b-1239d0255272@w13-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
-vmess://eyJhZGQiOiJ2MnJheTEuYm9uZHMuaWQiLCJhaWQiOiIwIiwiaWQiOiIxOTk1ZjE0OC0zZjY1LTQ0YzEtOTVjMy04ZGNkYmQ5NzE4NjkiLCJob3N0Ijoidi5ha2FtYWl6ZWQubmV0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hvd2R5IiwicG9ydCI6IjQ0MyIsInBzIjoidjJyYXkxLmJvbmRzLmlkIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMy5mYXN0NGcubmV0Ojgw?remarks=hcm3.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaGNtMS5mYXN0NGcubmV0Ojgw?remarks=hcm1.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAZ2FtZWhjbS5mYXN0NGcubmV0Ojgw?remarks=gamehcm.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAZ2FtZWhuLmZhc3Q0Zy5uZXQ6ODA?remarks=gamehn.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaG4xLmZhc3Q0Zy5uZXQ6ODA?remarks=hn1.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAaG41LmZhc3Q0Zy5uZXQ6ODA?remarks=hn5.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAc2luZzEuZmFzdDRnLm5ldDo4MA?remarks=sing1.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAc2luZzMuZmFzdDRnLm5ldDo4MA?remarks=sing3.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphYTdjMmIwYS0xMDVjLTQyNzMtODZiZC0yYTFhYWZkYTNlYTVAc2luZzQuZmFzdDRnLm5ldDo4MA?remarks=sing4.fast4g.net&obfsParam=dow.anticheatexpert.com.akamaized.net&path=/fast4g.net&obfs=websocket&tfo=1&alterId=0
+github list
 
 
 
-
-
+trojan://a246961d-b237-4f0b-96a1-3dc6868d79c9@hcm.aqvpn.me:443?allowInsecure=1&peer=aqvpn.akamaized.net&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn1
+trojan://a246961d-b237-4f0b-96a1-3dc6868d79c9@hcm2.aqvpn.me:443?allowInsecure=1&peer=aqvpn.akamaized.net&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn2
+trojan://a246961d-b237-4f0b-96a1-3dc6868d79c9@hcm3.aqvpn.me:443?allowInsecure=1&peer=aqvpn.akamaized.net&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn3
+vmess://YXV0bzo2OTRkMzNjNC1hYjE0LTQ5MmYtOWQyZC1lM2M3YTM5MzM0ZTlAdm5wcm92aXAucHJvamVjdDRneXVuYS5wdzo4MA?remarks=%F0%9F%87%BB%F0%9F%87%B3%20%20VN%20HOCHIMINH%20GM%20PRO%20MAX&obfsParam=yuna4g.akamaized.net&path=/project4gyuna.pw&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzplNjZiNmQ3MS03NmFiLTRiZmItYTcwNC00YzM4MmNiY2E1ODZAMDAwMS5oY20uZ2VuenBuLmNvbTo4MA?remarks=%F0%9F%87%BB%F0%9F%87%B3%20vn5&obfsParam=dl.ops.kgvn.garenanow.com.akamaized.net&path=/&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphN2U5ODdmYy1hMDBiLTQzZTQtYmNhNC0wYWU3MzA4ZmFlNmRAZ21objQuemluZ2Zhc3QubmV0Ojgw?remarks=%F0%9F%87%BB%F0%9F%87%B3vn6&obfsParam=zingfast.akamaized.net&path=/zingfast/&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzo2OTRkMzNjNC1hYjE0LTQ5MmYtOWQyZC1lM2M3YTM5MzM0ZTlAc2luZzEucHJvamVjdDRneXVuYS5wdzo4MA?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Plan%201&obfsParam=yuna4g.akamaized.net&path=/project4gyuna.pw&obfs=websocket&tfo=1&alterId=0
+trojan://21493260-cfa8-11ec-9d9b-1239d0255272@w13-trojan.bonds.id:443?allowInsecure=1&peer=dow.anticheatexpert.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sing2
+trojan://e6cd86b0-cfa7-11ec-8a3d-1239d0255272@w12-trojan.bonds.id:443?allowInsecure=1&peer=dow.anticheatexpert.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sing3
+trojan://ae278580-cfaf-11ec-b426-1239d0255272@w11-trojan.bonds.id:443?allowInsecure=1&peer=dow.anticheatexpert.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sing4
+trojan://1618e150-cfae-11ec-99a4-1239d0255272@trojan1.bonds.id:443?allowInsecure=1&peer=dow.anticheatexpert.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sing5
+trojan://026c8bb0-c3d1-11ec-bede-1239d0255272@trojan3.bonds.id:443?allowInsecure=1&peer=dow.anticheatexpert.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sing6
+trojan://a246961d-b237-4f0b-96a1-3dc6868d79c9@sing.aqvpn.me:443?allowInsecure=1&peer=aqvpn.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sing7
+vmess://YXV0bzo2OTRkMzNjNC1hYjE0LTQ5MmYtOWQyZC1lM2M3YTM5MzM0ZTlAc2luZzIucHJvamVjdDRneXVuYS5wdzo4MA?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Plan%202&obfsParam=yuna4g.akamaized.net&path=/project4gyuna.pw&obfs=websocket&tfo=1&alterId=0
+trojan://e66b6d71-76ab-4bfb-a704-4c382cbca586@0001.sg.genzpn.com:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sing9
+vmess://YXV0bzplNjZiNmQ3MS03NmFiLTRiZmItYTcwNC00YzM4MmNiY2E1ODZAMDAwMS5zZy5nZW56cG4uY29tOjgw?remarks=%F0%9F%87%B8%F0%9F%87%AC%20sing10&obfsParam=dl.ops.kgvn.garenanow.com.akamaized.net&path=/&obfs=websocket&tfo=1&alterId=0
+trojan://ef099ca0-db4d-11ec-9b18-1239d0255272@w21-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#sg%20w21%2031/5
+trojan://0ab33410-db4e-11ec-ad53-1239d0255272@w22-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#sg%20w22%2031/5
+trojan://0ab33410-db4e-11ec-ad53-1239d0255272@w22-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#sg%20w22%2031/5
 
