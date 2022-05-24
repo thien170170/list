@@ -17,4 +17,8 @@ vmess://YXV0bzplNjZiNmQ3MS03NmFiLTRiZmItYTcwNC00YzM4MmNiY2E1ODZAMDAwMS5zZy5nZW56
 trojan://ef099ca0-db4d-11ec-9b18-1239d0255272@w21-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sg%20w21%2031/5
 trojan://0ab33410-db4e-11ec-ad53-1239d0255272@w22-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sg%20w22%2031/5
 trojan://1e9ce000-db4e-11ec-8262-1239d0255272@w23-trojan.bonds.id:443/?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sg%20w23%2031/5
-
+trojan://026c8bb0-c3d1-11ec-bede-1239d0255272@trojan3.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+ trojan://1618e150-cfae-11ec-99a4-1239d0255272@trojan1.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+ trojan://ae278580-cfaf-11ec-b426-1239d0255272@w11-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+ trojan://e6cd86b0-cfa7-11ec-8a3d-1239d0255272@w12-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+ trojan://21493260-cfa8-11ec-9d9b-1239d0255272@w13-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
