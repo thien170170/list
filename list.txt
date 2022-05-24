@@ -16,5 +16,5 @@ trojan://e66b6d71-76ab-4bfb-a704-4c382cbca586@0001.sg.genzpn.com:443?allowInsecu
 vmess://YXV0bzplNjZiNmQ3MS03NmFiLTRiZmItYTcwNC00YzM4MmNiY2E1ODZAMDAwMS5zZy5nZW56cG4uY29tOjgw?remarks=%F0%9F%87%B8%F0%9F%87%AC%20sing10&obfsParam=dl.ops.kgvn.garenanow.com.akamaized.net&path=/&obfs=websocket&tfo=1&alterId=0
 trojan://ef099ca0-db4d-11ec-9b18-1239d0255272@w21-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#sg%20w21%2031/5
 trojan://0ab33410-db4e-11ec-ad53-1239d0255272@w22-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#sg%20w22%2031/5
-trojan://0ab33410-db4e-11ec-ad53-1239d0255272@w22-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#sg%20w22%2031/5
+trojan://1e9ce000-db4e-11ec-8262-1239d0255272@w23-trojan.bonds.id:443/?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#sg%20w23%2031/5
 
