@@ -23,3 +23,4 @@ trojan://0d910ca0-dd0e-11ec-b18a-1239d0255272@vn-trojan2.bonds.id:443/?allowInse
 trojan://256717c0-dd0e-11ec-bf55-1239d0255272@vn-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn3
 
 
+
