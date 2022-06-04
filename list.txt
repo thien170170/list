@@ -1,4 +1,4 @@
-vmess://YXV0bzoyMzBmZjY5Mi04MGEzLTQ0ZmYtYjM3OS02ODY5MTQyOGM4OGFAdjJyYXkzLmJvbmRzLmlkOjQ0Mw?remarks=v2ray3.bonds.id&path=/howdy&obfs=websocket&tls=1&peer=v.akamaized.net&allowInsecure=1&tfo=1&alterId=0
+trojan://b17ae260-e415-11ec-a881-1239d0255272@w21-trojan.bonds.id:443/?allowInsecure=1
 
 trojan://ef099ca0-db4d-11ec-9b18-1239d0255272@w21-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sg%20w21%2031/5
 
