@@ -43,3 +43,6 @@ ppq.apple.com
 idiagnostics.apple.com
 
 iphonediags.apple.com
+
+ns.itunes.apple.com
+
