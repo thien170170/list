@@ -1,26 +1,16 @@
-vmess://YXV0bzpkY2U0YzQ3Mi02ZjNmLTRjNDUtODBlNS1jYmZlNWVjYWQ3ZWVAc2cxLjMxdnBuLmNvbTo4MA?remarks=sg1.31vpn.com%2080&obfsParam=v.akamaized.net&path=/fastssh/thien170/62921b52cf693/&obfs=websocket&tfo=1&alterId=0
+vmess=v2ray3.udpgw.com:443, method=aes-128-gcm, password=3bf645d8-7b3a-4e85-9e04-f754c7a86619, obfs=wss, obfs-host=*.ibytedtos.com, obfs-uri=/howdy, tls-verification=false, fast-open=true, udp-relay=true, aead=true, tag=v2ray3.udpgw.com/
 
-trojan://b17ae260-e415-11ec-a881-1239d0255272@w21-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+trojan://2790ee30-fa30-11ec-9f96-1239d0255272@trojan3.udpgw.com:443?allowInsecure=1&peer=*.ibytedtos.com&tfo=1&udp=1#trojan2.udpgw.com%2011/7
 
-trojan://0cb271f0-e416-11ec-9458-1239d0255272@w22-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+vmess=v2ray2.udpgw.com:443, method=aes-128-gcm, password=a9481600-ef36-402a-a0e5-5547bfd7b87c, obfs=wss, obfs-host=*.ibytedtos.com, obfs-uri=/howdy, tls-verification=false, fast-open=true, udp-relay=true, aead=true, tag=v2ray2.udpgw.com 1/7
 
-trojan://1f25d1a0-e417-11ec-a8ee-1239d0255272@w23-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1
+trojan://6088c5d0-f216-11ec-8d80-1239d0255272@trojan2.udpgw.com:443?allowInsecure=1&peer=*.ibytedtos.com&tfo=1&udp=1#trojan2.udpgw.com%201/7
 
-trojan://ef099ca0-db4d-11ec-9b18-1239d0255272@w21-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sg%20w21%2031/5
+trojan://e18af160-dd0d-11ec-abf8-1239d0255272@vn-trojan2.bonds.id:443/?allowInsecure=1&peer=*.ibytedtos.com&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn1
 
-trojan://0ab33410-db4e-11ec-ad53-1239d0255272@w22-trojan.bonds.id:443?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sg%20w22%2031/5
+trojan://0d910ca0-dd0e-11ec-b18a-1239d0255272@vn-trojan2.bonds.id:443/?allowInsecure=1&peer=*.ibytedtos.com&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn2
 
-trojan://1e9ce000-db4e-11ec-8262-1239d0255272@w23-trojan.bonds.id:443/?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sg%20w23%2031/5
-
-trojan://026c8bb0-c3d1-11ec-bede-1239d0255272@trojan3.bonds.id:443?allowInsecure=1&peer=v.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sg%20trojan3
-
-trojan://c05aedc0-db54-11ec-a71e-1239d0255272@trojan3.bonds.id:443/?allowInsecure=1&peer=dl.ops.kgvn.garenanow.com.akamaized.net&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20sg%20trojan3%2031/5
-
-trojan://e18af160-dd0d-11ec-abf8-1239d0255272@vn-trojan2.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn1
-
-trojan://0d910ca0-dd0e-11ec-b18a-1239d0255272@vn-trojan2.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn2
-
-trojan://256717c0-dd0e-11ec-bf55-1239d0255272@vn-trojan.bonds.id:443/?allowInsecure=1&peer=v.akamaized.net&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn3
+trojan://256717c0-dd0e-11ec-bf55-1239d0255272@vn-trojan.bonds.id:443/?allowInsecure=1&peer=*.ibytedtos.com&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn3
 
 
 
