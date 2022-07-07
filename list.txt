@@ -6,11 +6,6 @@ vmess=v2ray2.udpgw.com:443, method=aes-128-gcm, password=a9481600-ef36-402a-a0e5
 
 trojan://6088c5d0-f216-11ec-8d80-1239d0255272@trojan2.udpgw.com:443?allowInsecure=1&peer=*.ibytedtos.com&tfo=1&udp=1#trojan2.udpgw.com%201/7
 
-trojan://e18af160-dd0d-11ec-abf8-1239d0255272@vn-trojan2.bonds.id:443/?allowInsecure=1&peer=*.ibytedtos.com&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn1
-
-trojan://0d910ca0-dd0e-11ec-b18a-1239d0255272@vn-trojan2.bonds.id:443/?allowInsecure=1&peer=*.ibytedtos.com&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn2
-
-trojan://256717c0-dd0e-11ec-bf55-1239d0255272@vn-trojan.bonds.id:443/?allowInsecure=1&peer=*.ibytedtos.com&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20vn3
 
 
 
