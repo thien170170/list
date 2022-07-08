@@ -1,6 +1,6 @@
-vmess=v2ray3.udpgw.com:443, method=aes-128-gcm, password=3bf645d8-7b3a-4e85-9e04-f754c7a86619, obfs=wss, obfs-host=*.ibytedtos.com, obfs-uri=/howdy, tls-verification=false, fast-open=true, udp-relay=true, aead=true, tag=v2ray3.udpgw.com/
+;vmess=v2ray3.udpgw.com:443, method=aes-128-gcm, password=3bf645d8-7b3a-4e85-9e04-f754c7a86619, obfs=wss, obfs-host=*.ibytedtos.com, obfs-uri=/howdy, tls-verification=false, fast-open=true, udp-relay=true, aead=true, tag=v2ray3.udpgw.com/
 
-trojan://2790ee30-fa30-11ec-9f96-1239d0255272@trojan3.udpgw.com:443?allowInsecure=1&peer=*.ibytedtos.com&tfo=1&udp=1#trojan2.udpgw.com%2011/7
+;trojan://2790ee30-fa30-11ec-9f96-1239d0255272@trojan3.udpgw.com:443?allowInsecure=1&peer=*.ibytedtos.com&tfo=1&udp=1#trojan2.udpgw.com%2011/7
 
 vmess=v2ray2.udpgw.com:443, method=aes-128-gcm, password=a9481600-ef36-402a-a0e5-5547bfd7b87c, obfs=wss, obfs-host=*.ibytedtos.com, obfs-uri=/howdy, tls-verification=false, fast-open=true, udp-relay=true, aead=true, tag=v2ray2.udpgw.com 1/7
 
