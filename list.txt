@@ -6,12 +6,12 @@
 
 ;trojan://6088c5d0-f216-11ec-8d80-1239d0255272@trojan2.udpgw.com:443?allowInsecure=1&peer=*.ibytedtos.com&tfo=1&udp=1#trojan2.udpgw.com%201/7
 
-vmess=eeh7iewe.com:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=true, udp-relay=true, aead=false, tag=🇸🇬 新加坡 013
+vmess=eeh7iewe.com:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 013
 
-vmess=zecjk.com:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=true, udp-relay=true, aead=false, tag=🇸🇬 新加坡 011
+vmess=zecjk.com:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 011
 
-vmess=103.253.26.20:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=true, udp-relay=true, aead=false, tag=🇸🇬 新加坡 010
+vmess=103.253.26.20:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 010
 
-vmess=103.253.26.134:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=true, udp-relay=true, aead=false, tag=🇸🇬 新加坡 009
+vmess=103.253.26.134:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 009
 
 
