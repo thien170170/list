@@ -15,3 +15,6 @@ vmess=103.253.26.20:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-46
 vmess=103.253.26.134:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 009
 
 
+trojan://1090b770-04fd-11ed-a92b-1239d0255272@trojan2.udpgw.com:443/?allowInsecure=1&peer=m.akamai.net#trojan2.udpgw.com%2025/7
+
+vmess://YXV0bzozZTdmNjhmNS1lOTgwLTRhNTQtYTdhMS1mODcxMzBjYWMxNzNAdjJyYXkyLnVkcGd3LmNvbTo0NDM?remarks=v2ray2.udpgw.com%2025/7&path=/howdy&obfs=websocket&tls=1&peer=m.akamai.net&allowInsecure=1&alterId=0
