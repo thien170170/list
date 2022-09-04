@@ -32,10 +32,3 @@ vmess=lc-hk01-direct01.lc-hk01.lc-node.com:443, method=aes-128-gcm, password=ec7
 vmess=lc-hk01-direct01.lc-hk01.lc-node.com:443, method=aes-128-gcm, password=ec736482-173e-3eff-9114-b49df8056e7d, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 _HK_香港
 
 ;vn
-trojan=hcm.aqvpn.me:443, password=a246961d-b237-4f0b-96a1-3dc6868d79c9, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=🇻🇳 Hồ Chí Minh
-
-trojan=hn.aqvpn.me:443, password=a246961d-b237-4f0b-96a1-3dc6868d79c9, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=🇻🇳 Hà Nội
-
-trojan=vn2.prometheusnet.xyz:443, password=4f00ed6c-2ae8-4404-bc19-fb92a594d7d6, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=🇻🇳 Ha Noi
-
-trojan=vn1.prometheusnet.xyz:443, password=4f00ed6c-2ae8-4404-bc19-fb92a594d7d6, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=🇻🇳 Ho Chi Minh
