@@ -1,5 +1,7 @@
 ;sg
 
+vmess=sony.saog.buzz:443, method=aes-128-gcm, password=bd0da444-a5a0-3bcb-b288-d31488be5475, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/support, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 新加坡_0906010
+
 trojan=trojan2.udpgw.com:443, password=d5ff0c80-2dcd-11ed-a223-1239d0255272, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=false, udp-relay=true, tag=[trojan]trojan2.udpgw.com:443
 
 vmess=v2ray2.udpgw.com:443, method=aes-128-gcm, password=5b06f4b9-dea7-412e-a119-0d93c5e8a866, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/howdy, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=v2ray2.udpgw.com
@@ -21,15 +23,6 @@ vmess=202.61.141.130:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4
 vmess=sgp.jcnf.app:443, method=aes-128-gcm, password=c753e8a8-e180-4e76-a486-c917273d718b, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zcjd, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 新加坡_0902102
 
 ;hk
-vmess=527hk1.fans8.xyz:443, method=aes-128-gcm, password=2cc10f9c-fb02-3e45-b619-c3b98cde912a, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/ray, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 香港_0902034
-
-vmess=lc-hk01-direct01.lc-hk01.lc-node.com:443, method=aes-128-gcm, password=ec736482-173e-3eff-9114-b49df8056e7d, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 香港_0902033
-
-vmess=hkhhdan.com:443, method=aes-128-gcm, password=7fda537a-174a-4e6e-a1f8-c2fffbb83c00, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/87e0e7d0/, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 香港_0902016
-
-vmess=lc-hk01-direct01.lc-hk01.lc-node.com:443, method=aes-128-gcm, password=ec736482-173e-3eff-9114-b49df8056e7d, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 _HK_香港 ¹
-
-vmess=lc-hk01-direct01.lc-hk01.lc-node.com:443, method=aes-128-gcm, password=ec736482-173e-3eff-9114-b49df8056e7d, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 _HK_香港
 
 ;vn
 
