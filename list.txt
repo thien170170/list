@@ -7,9 +7,9 @@ vmess=168.138.171.65:443, method=aes-128-gcm, password=4af6fd9a-e8b4-46f2-da3a-2
 
 vmess=sony.saog.buzz:443, method=aes-128-gcm, password=bd0da444-a5a0-3bcb-b288-d31488be5475, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/support, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 新加坡_0906010
 
-trojan=trojan2.udpgw.com:443, password=d5ff0c80-2dcd-11ed-a223-1239d0255272, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=false, udp-relay=true, tag=[trojan]trojan2.udpgw.com:443
+trojan=trojan2.udpgw.com:443, password=d5ff0c80-2dcd-11ed-a223-1239d0255272, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=false, udp-relay=true, tag=🇸🇬[trojan]trojan2.udpgw.com:443
 
-vmess=v2ray2.udpgw.com:443, method=aes-128-gcm, password=5b06f4b9-dea7-412e-a119-0d93c5e8a866, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/howdy, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=v2ray2.udpgw.com
+vmess=v2ray2.udpgw.com:443, method=aes-128-gcm, password=5b06f4b9-dea7-412e-a119-0d93c5e8a866, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/howdy, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬v2ray2.udpgw.com
 
 ;vmess=eeh7iewe.com:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 013
 
