@@ -1,14 +1,13 @@
 ;sg
 
+vmess=157.230.240.49:80, method=chacha20-ietf-poly1305, password=77bb73e6-4df1-4619-b6aa-6686f4e238b9, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zingfast/, fast-open=true, udp-relay=true, aead=true, tag=⚠︎ ⚠︎ ⚠︎ ??PL SG Garena (2)🇸🇬
+
+trojan=157.230.240.49:443, password=77bb73e6-4df1-4619-b6aa-6686f4e238b9, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=⚠︎ ⚠︎ ⚠︎ ??BS SG Garena (4)🇸🇬
+
 vmess=sing-3.4g.mkvn.net:80, method=aes-128-gcm, password=952e97d2-17ef-4e42-b8aa-c9f892ca4eed, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/4g.mkvn.net, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 Singapore 3 - Tiktok
 
-trojan=913hk.tfzhc.top:443, password=933b91c7-8499-44dd-8a84-ce6770acf55f, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=false, udp-relay=true, tag=🇸🇬 狮城|tg频道:@ripaojiedian
 
-trojan=18.141.8.87:443, password=iyinglong, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇸🇬 新加坡 002
-
-trojan=3.1.6.157:443, password=iyinglong, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇸🇬 新加坡 005
-
-vmess=sgp.ycsfree.xyz:443, method=aes-128-gcm, password=c753e8a8-e180-4e76-a486-c917273d718b, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zcjd, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 新加坡_0918040
+trojan=13.215.202.73:443, password=666888, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=false, udp-relay=true, tag=🇸🇬 SG【付费推荐：gvip.gq】 ¹²
 
 vmess=sgp.ycsfree.xyz:443, method=aes-128-gcm, password=c753e8a8-e180-4e76-a486-c917273d718b, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zcjd, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 新加坡_0914192
 
@@ -16,14 +15,7 @@ trojan=trojan2.udpgw.com:443, password=d5ff0c80-2dcd-11ed-a223-1239d0255272, ove
 
 vmess=v2ray2.udpgw.com:443, method=aes-128-gcm, password=5b06f4b9-dea7-412e-a119-0d93c5e8a866, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/howdy, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬v2ray2.udpgw.com
 
-;vmess=eeh7iewe.com:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 013
-
-vmess=zecjk.com:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 011
-
-vmess=103.253.26.20:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 010
-
-;vmess=103.253.26.134:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 009
-
+;
 
 ;hk
 
