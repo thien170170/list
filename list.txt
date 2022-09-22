@@ -1,8 +1,8 @@
 ;sg
 
-vmess=157.230.240.49:80, method=chacha20-ietf-poly1305, password=77bb73e6-4df1-4619-b6aa-6686f4e238b9, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zingfast/, fast-open=true, udp-relay=true, aead=true, tag=⚠︎ ⚠︎ ⚠︎ ??PL SG Garena (2)🇸🇬
+vmess=157.230.240.49:80, method=chacha20-ietf-poly1305, password=77bb73e6-4df1-4619-b6aa-6686f4e238b9, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zingfast/, fast-open=true, udp-relay=true, aead=true, tag=🇸🇬PL SG Garena (2)
 
-trojan=157.230.240.49:443, password=77bb73e6-4df1-4619-b6aa-6686f4e238b9, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=⚠︎ ⚠︎ ⚠︎ ??BS SG Garena (4)🇸🇬
+trojan=157.230.240.49:443, password=77bb73e6-4df1-4619-b6aa-6686f4e238b9, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=🇸🇬BS SG Garena (4)
 
 vmess=sing-3.4g.mkvn.net:80, method=aes-128-gcm, password=952e97d2-17ef-4e42-b8aa-c9f892ca4eed, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/4g.mkvn.net, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 Singapore 3 - Tiktok
 
