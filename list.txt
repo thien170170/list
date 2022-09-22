@@ -7,7 +7,7 @@ trojan=157.230.240.49:443, password=77bb73e6-4df1-4619-b6aa-6686f4e238b9, over-t
 vmess=sing-3.4g.mkvn.net:80, method=aes-128-gcm, password=952e97d2-17ef-4e42-b8aa-c9f892ca4eed, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/4g.mkvn.net, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 Singapore 3 - Tiktok
 
 
-trojan=13.215.202.73:443, password=666888, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=false, udp-relay=true, tag=🇸🇬 SG【付费推荐：gvip.gq】 ¹²
+
 
 vmess=sgp.ycsfree.xyz:443, method=aes-128-gcm, password=c753e8a8-e180-4e76-a486-c917273d718b, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zcjd, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 新加坡_0914192
 
