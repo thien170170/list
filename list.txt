@@ -9,12 +9,15 @@ vmess=sing-3.4g.mkvn.net:80, method=aes-128-gcm, password=952e97d2-17ef-4e42-b8a
 
 
 
-vmess=sgp.ycsfree.xyz:443, method=aes-128-gcm, password=c753e8a8-e180-4e76-a486-c917273d718b, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zcjd, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 新加坡_0914192
+vmess=8.214.33.158:80, method=aes-128-gcm, password=cb81e6ab-1d83-4ac1-f0ad-ae5c2a7c29ef, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 :中国-vmess-8.214.33.158:80-被墙-直连-解锁新加坡地区NF非自制剧 ²
 
-trojan=trojan2.udpgw.com:443, password=d5ff0c80-2dcd-11ed-a223-1239d0255272, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=false, udp-relay=true, tag=🇸🇬[trojan]trojan2.udpgw.com:443
+vmess=139.99.90.122:443, method=aes-128-gcm, password=c0156451-4efb-45e2-84fc-8d315c4650db, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 github.com/freefq - 新加坡OVH 17
 
-vmess=v2ray2.udpgw.com:443, method=aes-128-gcm, password=5b06f4b9-dea7-412e-a119-0d93c5e8a866, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/howdy, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬v2ray2.udpgw.com
 
+vmess=139.99.91.95:443, method=aes-128-gcm, password=c0156451-4efb-45e2-84fc-8d315c4650db, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 002
+
+
+trojan=trojan3.udpgw.com:443, password=9f1e7b30-3bdb-11ed-93d6-1239d0255272, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=false, udp-relay=false, tag=🇸🇬[trojan]trojan3.udpgw.com:443
 ;
 
 ;hk
