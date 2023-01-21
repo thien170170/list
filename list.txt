@@ -1,38 +1,9 @@
-;sg
+trojan=trojan3.udpgw.com:443, password=c86cd600-947f-11ed-a917-1239d0255272, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=false, udp-relay=true, tag=[trojan]trojan3.udpgw.com:443q
 
-trojan=sing.aqvpn.me:443, password=a246961d-b237-4f0b-96a1-3dc6868d79c9, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=🇸🇬 Sing
+vmess=139.99.91.95:443, method=aes-128-gcm, password=c0156451-4efb-45e2-84fc-8d315c4650db, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 001
 
-trojan=sg1.prometheusnet.xyz:443, password=4f00ed6c-2ae8-4404-bc19-fb92a594d7d6, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore
+vmess=LOADIP.SPEED4G.ME:80, method=chacha20-ietf-poly1305, password=2c33697c-ea2b-433d-8b9d-c42169d60ed8, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/speed4g.me, fast-open=true, udp-relay=true, aead=true, tag=🇻🇳 LOADIP VIETTEL (GARENA)
 
-;vmess=eeh7iewe.com:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 013
+vmess=SG1.SPEED4G.ME:80, method=chacha20-ietf-poly1305, password=2c33697c-ea2b-433d-8b9d-c42169d60ed8, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/speed4g.me, fast-open=true, udp-relay=true, aead=true, tag=🇸🇬 Singapore 1 (GARENA)
 
-vmess=zecjk.com:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 011
-
-vmess=103.253.26.20:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 010
-
-;vmess=103.253.26.134:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=m.akamai.net, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡 009
-
-vmess=202.61.141.130:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡_0902166
-
-vmess=ycgyg.com:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡_0902151
-
-vmess=202.61.141.130:443, method=aes-128-gcm, password=aba50dd4-5484-3b05-b14a-4661caf862d5, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/ws, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇸🇬 新加坡_0902150
-
-vmess=sgp.jcnf.app:443, method=aes-128-gcm, password=c753e8a8-e180-4e76-a486-c917273d718b, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zcjd, tls-verification=false, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 新加坡_0902102
-
-;hk
-vmess=527hk1.fans8.xyz:443, method=aes-128-gcm, password=2cc10f9c-fb02-3e45-b619-c3b98cde912a, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/ray, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 香港_0902034
-
-vmess=lc-hk01-direct01.lc-hk01.lc-node.com:443, method=aes-128-gcm, password=ec736482-173e-3eff-9114-b49df8056e7d, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 香港_0902033
-
-vmess=hkhhdan.com:443, method=aes-128-gcm, password=7fda537a-174a-4e6e-a1f8-c2fffbb83c00, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/87e0e7d0/, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 香港_0902016
-
-vmess=lc-hk01-direct01.lc-hk01.lc-node.com:443, method=aes-128-gcm, password=ec736482-173e-3eff-9114-b49df8056e7d, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 _HK_香港 ¹
-
-vmess=lc-hk01-direct01.lc-hk01.lc-node.com:443, method=aes-128-gcm, password=ec736482-173e-3eff-9114-b49df8056e7d, obfs=wss, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=true, aead=false, tag=🇭🇰 _HK_香港
-
-;vn
-
-trojan=vn2.prometheusnet.xyz:443, password=4f00ed6c-2ae8-4404-bc19-fb92a594d7d6, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=🇻🇳 Ha Noi
-
-trojan=vn1.prometheusnet.xyz:443, password=4f00ed6c-2ae8-4404-bc19-fb92a594d7d6, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=🇻🇳 Ho Chi Minh
+vmess=HNVIP2.SPEED4G.ME:80, method=chacha20-ietf-poly1305, password=2c33697c-ea2b-433d-8b9d-c42169d60ed8, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/speed4g.me, fast-open=true, udp-relay=true, aead=true, tag=🇻🇳 HN2 VIETTEL (GARENA)
