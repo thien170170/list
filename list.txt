@@ -1,6 +1,6 @@
 ;sg
 
-vmess=157.230.240.49:80, method=chacha20-ietf-poly1305, password=77bb73e6-4df1-4619-b6aa-6686f4e238b9, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zingfast/, fast-open=true, udp-relay=true, aead=true, tag=🇸🇬PL SG Garena (2)
+;vmess=157.230.240.49:80, method=chacha20-ietf-poly1305, password=77bb73e6-4df1-4619-b6aa-6686f4e238b9, obfs=ws, obfs-host=dl.kgvnexp.garenanow.com, obfs-uri=/zingfast/, fast-open=true, udp-relay=true, aead=true, tag=🇸🇬PL SG Garena (2)
 
 trojan=157.230.240.49:443, password=77bb73e6-4df1-4619-b6aa-6686f4e238b9, over-tls=true, tls-verification=false, tls-host=dl.kgvnexp.garenanow.com, fast-open=true, udp-relay=true, tag=🇸🇬BS SG Garena (4)
 
