@@ -1,4 +1,4 @@
-ocsp.int-x3.letsencrypt.org
+ ocsp.int-x3.letsencrypt.org
 
 ocsp.apple.com
 
